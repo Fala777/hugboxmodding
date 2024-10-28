@@ -248,6 +248,7 @@ categories =  {
 			4949 # Guinea
 			5118 5110 # South Africa
 			5150 5151 # Madagascar
+			5790 #shityislandlol
 		}
 	}
 

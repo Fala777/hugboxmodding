@@ -801,7 +801,7 @@ western_norway = { #4
 }
 
 subarctic_islands_area = { #4
-	1978 1979 370 371
+	1978 1979 370 371 5790
 }
 
 greenland_area = { #2
